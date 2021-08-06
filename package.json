@@ -1,0 +1,23 @@
+{
+  "name": "github-mon1cv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "typed.js": "^2.0.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RUFOS-od/github-mon1CV.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RUFOS-od/github-mon1CV/issues"
+  },
+  "homepage": "https://github.com/RUFOS-od/github-mon1CV#readme"
+}
